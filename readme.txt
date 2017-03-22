@@ -1,6 +1,6 @@
 CSC361 lab04
 Chengxiang Xiong
-V00838781
+
 
 1. typing "make" to compile the sws.c file.
 
